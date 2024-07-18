@@ -77,4 +77,4 @@ This project is constantly updated. New features are announced every Thursday. S
 
 ---
 
-Made with ❤️ by [ShadowSL3](https://github.com/yourusername)
+Made with ❤️ by [ShadowSL3](https://github.com/ShadowSL3)
