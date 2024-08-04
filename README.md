@@ -3,7 +3,7 @@
 # Ammo Generator 🎯
 
 <div align="center">
-  <img src="https://yourlogo.url/logo.png" alt="Ammo Generator Logo" width="300">
+  <img src="https://yourlogo.url/logo.png" alt="Ammo Generator Logo" width="200">
 </div>
 
 **Ammo Generator** is a powerful tool designed for the Godot game engine. It simplifies the creation and management of ammunition properties within game projects, allowing developers to define attributes such as animation sequences for different types of ammunition, associated weapon names, autofire capabilities, and more.
@@ -19,7 +19,7 @@
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/ammo-generator.git
+    git clone https://github.com/ShadowSL3/ammo-generator.git
     ```
 2. **Import into Godot**:
     - Open Godot and import the project by navigating to the cloned repository folder.
@@ -64,6 +64,9 @@ Watch a demonstration of Ammo Generator in action:
 
 ## License 📜
 
+# 🛠️ Godot 3.5.3 Support
+Modify Code ``gd onready``
+Who Godot 4.0 changed Remove standard keywords onready Now Godot 4.0 Support only ``gd @export var WeaponName : String`` This example show Changed godot Resource Is Example Godot Change Only Script You Use only @ in the other project or implementation contains only @
 This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements 🙏

@@ -7,4 +7,3 @@ class_name Ammo
 @export var Reload_anim : String
 @export var AutoFire : bool
 @export var Shoot_Anim : int
-
